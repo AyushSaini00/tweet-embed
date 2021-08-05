@@ -1,0 +1,26 @@
+{
+  "name": "tweet-embed",
+  "version": "0.1.0",
+  "description": "Platform independent twitter card component",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushSaini00/tweet-embed.git"
+  },
+  "keywords": [
+    "twitter",
+    "tweet",
+    "embed",
+    "card",
+    "component"
+  ],
+  "author": "Ayush Saini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyushSaini00/tweet-embed/issues"
+  },
+  "homepage": "https://github.com/AyushSaini00/tweet-embed#readme"
+}
